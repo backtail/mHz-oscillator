@@ -45,10 +45,16 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.19999999999999998
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
@@ -113,8 +119,20 @@
         "min_via_diameter": 0.39999999999999997,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0,
+        0.2
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        },
+        {
+          "diameter": 0.4,
+          "drill": 0.3
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -334,7 +352,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "unhurried-lfo.kicad_pro",
+    "filename": "mHz_oscillator.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -366,10 +384,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Power",
-        "nets": [
-          "+12V",
-          "-12V"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.8,
@@ -436,6 +451,14 @@
     [
       "974c48bf-534e-4335-98e1-b0426c783e99",
       ""
+    ],
+    [
+      "89cae5c0-6517-443e-a958-d019eaa85064",
+      "main_pcb"
+    ],
+    [
+      "3f3117ae-7458-476c-aa14-6703ceec9365",
+      "interface_pcb"
     ]
   ],
   "text_variables": {}
