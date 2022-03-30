@@ -1,0 +1,3 @@
+[submodule "KiCad_Footprints"]
+	path = KiCad_Footprints
+	url = git@github.com:butchwarns/KiCad_Footprints.git
