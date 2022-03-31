@@ -2,14 +2,14 @@
 <svg
    inkscape:export-ydpi="1000"
    inkscape:export-xdpi="1000"
-   inkscape:export-filename="/home/maxgenson/Documents/MMS Synth Project/vco-4/fp design/vco-4-fp.png"
+   inkscape:export-filename="/home/maxgenson/Documents/MMS Synth Project/ACG 102 (mHz oscillator)/Frontpanel_Design/mHz oscillator.png"
    width="30.480188mm"
    height="128.5mm"
    viewBox="0 0 30.480188 128.5"
    version="1.1"
    id="svg8"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="lfo-4.svg"
+   sodipodi:docname="mHz oscillator.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -853,10 +853,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5648508"
-     inkscape:cx="57.513469"
-     inkscape:cy="242.83465"
+     inkscape:cx="36.425197"
+     inkscape:cy="242.19561"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -892,7 +892,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="background"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        id="path847"
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.324047"
@@ -929,11 +930,11 @@
          sodipodi:role="line"
          id="tspan82155-8-0">freq</tspan></text>
     <text
-       y="51.30732"
+       y="51.440754"
        x="4.3420644"
        id="text142-1-1-7-9-2-6-6-5-3-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.15875px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.26;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
-         y="51.30732"
+         y="51.440754"
          x="4.3420644"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:role="line"
@@ -949,21 +950,21 @@
          sodipodi:role="line"
          id="tspan82155-8-0-6-0">slow</tspan></text>
     <text
-       y="51.157753"
-       x="23.774921"
+       y="51.196632"
+       x="23.784378"
        id="text142-1-1-7-9-2-6-6-5-3-6-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:-0.15875px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.26;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
-         y="51.157753"
-         x="23.695547"
+         y="51.196632"
+         x="23.705004"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:role="line"
-         id="tspan82155-8-0-6-4">continous</tspan></text>
+         id="tspan82155-8-0-6-4">loop</tspan></text>
     <text
-       y="64.865959"
+       y="64.639885"
        x="20.977335"
        id="text142-1-1-7-9-2-6-6-5-3-6-4-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.15875px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.26;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
-         y="64.865959"
+         y="64.639885"
          x="20.977335"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:role="line"
@@ -991,11 +992,11 @@
          x="102.11761"
          y="111.46551" /></text>
     <text
-       y="22.178795"
+       y="22.119301"
        x="3.0642884"
        id="text142-1-1-7-9-2-6-6-5-3-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.15875px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.26;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
-         y="22.178795"
+         y="22.119301"
          x="3.0642884"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:role="line"
@@ -1011,11 +1012,11 @@
          sodipodi:role="line"
          id="tspan82155-8-0-7-7">trig</tspan></text>
     <text
-       y="83.361824"
+       y="83.206863"
        x="18.195591"
        id="text12082"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.15875px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.26;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
-         y="83.361824"
+         y="83.206863"
          x="18.195591"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:role="line"
@@ -1037,11 +1038,11 @@
          sodipodi:role="line"
          id="tspan14599">oscillator</tspan></text>
     <text
-       y="22.172697"
+       y="22.179979"
        x="19.748009"
        id="text10703"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.15875px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.26;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
-         y="22.172697"
+         y="22.179979"
          x="19.748009"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:role="line"
@@ -1051,7 +1052,8 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="schematic"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g1532"
        transform="translate(13.799091,5.185142)">
@@ -1352,7 +1354,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="components"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        id="path849"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
