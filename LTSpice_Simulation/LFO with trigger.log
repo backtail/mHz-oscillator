@@ -1,0 +1,23 @@
+Circuit: * Z:\home\maxgenson\Documents\MMS Synth Project\ACG 102 (mHz oscillator)\LTSpice_Simulation\LFO with trigger.asc
+
+WARNING: Less than two connections to node N019.  This node is used by R9.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Apr 25 12:59:39 2022
+Total elapsed time: 3.072 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 39171
+traniter = 39159
+tranpoints = 12211
+accept = 8984
+rejected = 3227
+matrix size = 102
+fillins = 30
+solver = Normal
+Thread vector: 291.1/29.9[4] 17.9/12.1[4] 12.2/6.3[4] 0.7/2.2[1]  2592/500
+Matrix Compiler1: 17.59 KB object code size  6.7/4.2/[1.8]
+Matrix Compiler2: 12.00 KB object code size  2.2/3.4/[0.7]
+
